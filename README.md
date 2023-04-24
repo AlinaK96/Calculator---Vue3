@@ -2,6 +2,7 @@
 
 Запуск программы Vue 3
 
+![Вид:](./public/calculator.png)
 
 ## Project Setup
 
